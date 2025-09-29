@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial+black&weight=600&size=35&pause=1000&color=FFFFFF&background=FF000000&width=435&lines=Hi%2C+I'm+Dayron Giron!;Backend+Developer;Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+Alternates&weight=600&size=35&duration=2500&pause=1000&color=FFFFFF&background=FF000000&width=435&lines=Hi%2C+I'm+Dayron+Giron!;Backend+Developer;Engineering+Student)](https://git.io/typing-svg)
+
 
 <!--<div align="center">
 ![GitHub followers](https://img.shields.io/github/followers/DayronGi?style=social)
